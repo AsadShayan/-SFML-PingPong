@@ -23,8 +23,8 @@ PingPong is a simple 2D pong game implemented in C++ using the SFML library.
 4. Run the executable: `./PingPong`
 
 ## Pictures
-1. MainMenu:
 ![mainmenu](https://github.com/AsadShayan/-SFML-PingPong/assets/153836414/b082fd67-afdb-45dc-af73-00ede81d9a31)
+1. MainMenu:
 
 2. PVP - Mode:
 ![pvp-mode](https://github.com/AsadShayan/-SFML-PingPong/assets/153836414/ba2dd253-4d71-4bd0-93b5-cb28d49921af)
